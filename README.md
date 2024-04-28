@@ -1,8 +1,10 @@
 # CODSOFT
+
 Internship Program Of 4 Weeks in UI/UX Design 
 
-
---**TASK 1** : **Mobile Application Sign-Up Process** 
+-----------------------------------------------------
+--**TASK 1** : **Mobile Application Sign-Up Process**
+-----------------------------------------------------
 
 The process via which users create an account and sign up for an app is known as a mobile app signup flow. Encouraging users to sign up quickly and easily while gathering the required data from them is the aim of a well-designed registration flow.  
 
@@ -16,10 +18,10 @@ The process via which users create an account and sign up for an app is known as
 
 **Safe:** To safeguard users' private information, the registration process must be safe.
 
-[https://www.figma.com/file/0IRRmK2I69vnMnWr2KorM3/Mobile-App-Signup-Flow?type=design&node-id=0%3A1&mode=dev&t=rWcCDZO9fsB0LhEt-1](url)
 
-
+-----------------------------------
 --**TASK 3** : **Restaurant Menu**
+-----------------------------------
 
 A restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use. The goal of a good restaurant menu is to make it easy for customers to find the dishes they want, and to encourage them to order more.
 
@@ -30,7 +32,9 @@ A restaurant menu UI/UX project is the process of designing a menu that is both 
 **Categorized:** The menu should be categorized, so that customers can easily find the dishes they are looking for. The categories should be clear and concise, and they should be consistent throughout the menu.
 
 
+-------------------------------------
 --**TASK 4** : **E-commerce website**
+-------------------------------------
 
 An e-commerce website UI/UX project is the process of designing an online store that is both visually appealing and easy to use. The goal of a good e-commerce website is to make it easy for customers to find the products they want, and to encourage them to buy them.
 
