@@ -19,19 +19,6 @@ The process via which users create an account and sign up for an app is known as
 [https://www.figma.com/file/0IRRmK2I69vnMnWr2KorM3/Mobile-App-Signup-Flow?type=design&node-id=0%3A1&mode=dev&t=rWcCDZO9fsB0LhEt-1](url)
 
 
-
---**TASK 2** : **Email Template**
-
-An email template is a pre-designed email that can be used to send out marketing or promotional emails. The goal of a good email template is to make it easy and quick for businesses to send out emails that look professional and engaging.
-
-**Visually appealing:** The email template should be visually appealing and easy to read. The use of colors, fonts, and images should be carefully considered to create a visually appealing email.
-
-**Easy to use:** The email template should be easy to use and navigate. The user should be able to easily find the necessary information and make changes to the template.
-
-**Responsive:** The email template should be responsive, so that it looks good on all devices, including desktop computers, laptops, tablets, and smartphones.
-
-
-
 --**TASK 3** : **Restaurant Menu**
 
 A restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use. The goal of a good restaurant menu is to make it easy for customers to find the dishes they want, and to encourage them to order more.
@@ -41,3 +28,16 @@ A restaurant menu UI/UX project is the process of designing a menu that is both 
 **Easy to use:** The menu should be easy to use and navigate. The customer should be able to easily find the necessary information and make their selections.
 
 **Categorized:** The menu should be categorized, so that customers can easily find the dishes they are looking for. The categories should be clear and concise, and they should be consistent throughout the menu.
+
+
+--**TASK 4** : **E-commerce website**
+
+An e-commerce website UI/UX project is the process of designing an online store that is both visually appealing and easy to use. The goal of a good e-commerce website is to make it easy for customers to find the products they want, and to encourage them to buy them.
+
+**Visually appealing:** The website should be visually appealing and easy to read. The use of colors, fonts, and images should be carefully considered to create a visually appealing website.
+
+**Easy to use:** The website should be easy to use and navigate. The customer should be able to easily find the necessary information and make their purchases.
+
+**Categorized:** The products on the website should be categorized, so that customers can easily find the products they are looking for. The categories should be clear and concise, and they should be consistent throughout the website.
+
+**Searchable:** The website should be searchable so that customers can easily find the products they are looking for. The search function should be easy to use and should return relevant results.
