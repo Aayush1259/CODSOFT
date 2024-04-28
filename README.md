@@ -3,7 +3,7 @@
 Internship Program Of 4 Weeks in UI/UX Design 
 
 -----------------------------------------------------
---**TASK 1** : **Mobile Application Sign-Up Process**
+**TASK 1** : **Mobile Application Sign-Up Process**
 -----------------------------------------------------
 
 The process via which users create an account and sign up for an app is known as a mobile app signup flow. Encouraging users to sign up quickly and easily while gathering the required data from them is the aim of a well-designed registration flow.  
@@ -20,7 +20,7 @@ The process via which users create an account and sign up for an app is known as
 
 
 -----------------------------------
---**TASK 3** : **Restaurant Menu**
+**TASK 3** : **Restaurant Menu**
 -----------------------------------
 
 A restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use. The goal of a good restaurant menu is to make it easy for customers to find the dishes they want, and to encourage them to order more.
@@ -33,7 +33,7 @@ A restaurant menu UI/UX project is the process of designing a menu that is both 
 
 
 -------------------------------------
---**TASK 4** : **E-commerce website**
+**TASK 4** : **E-commerce website**
 -------------------------------------
 
 An e-commerce website UI/UX project is the process of designing an online store that is both visually appealing and easy to use. The goal of a good e-commerce website is to make it easy for customers to find the products they want, and to encourage them to buy them.
