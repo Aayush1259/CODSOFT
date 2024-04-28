@@ -16,6 +16,8 @@ The process via which users create an account and sign up for an app is known as
 
 **Safe:** To safeguard users' private information, the registration process must be safe.
 
+[https://www.figma.com/file/0IRRmK2I69vnMnWr2KorM3/Mobile-App-Signup-Flow?type=design&node-id=0%3A1&mode=dev&t=rWcCDZO9fsB0LhEt-1](url)
+
 
 
 --**TASK 2** : **Email Template**
