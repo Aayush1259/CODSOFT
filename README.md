@@ -2,7 +2,7 @@
 Internship Program Of 4 Weeks in UI/UX Design 
 
 
-**TASK 1** : **Mobile Application Sign-Up Process** 
+--**TASK 1** : **Mobile Application Sign-Up Process** 
 
 The process via which users create an account and sign up for an app is known as a mobile app signup flow. Encouraging users to sign up quickly and easily while gathering the required data from them is the aim of a well-designed registration flow.  
 
@@ -18,7 +18,7 @@ The process via which users create an account and sign up for an app is known as
 
 
 
-**TASK 2** : **Email Template**
+--**TASK 2** : **Email Template**
 
 An email template is a pre-designed email that can be used to send out marketing or promotional emails. The goal of a good email template is to make it easy and quick for businesses to send out emails that look professional and engaging.
 
@@ -30,7 +30,7 @@ An email template is a pre-designed email that can be used to send out marketing
 
 
 
-**TASK 3** : **Restaurant Menu**
+--**TASK 3** : **Restaurant Menu**
 
 A restaurant menu UI/UX project is the process of designing a menu that is both visually appealing and easy to use. The goal of a good restaurant menu is to make it easy for customers to find the dishes they want, and to encourage them to order more.
 
